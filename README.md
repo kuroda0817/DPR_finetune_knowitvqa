@@ -21,3 +21,4 @@ Knowledge-Based Video Question Answeringタスクのデータセットであるk
 ```
 python DPR_finetune_knowitvqa.py
 ```
+## ロス関数
