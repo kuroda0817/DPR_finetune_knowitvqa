@@ -4,7 +4,7 @@ Knowledge-Based Video Question Answeringタスクのデータセットであるk
 ## 設定
 1. リポジトリクローン: 
     
-    `git clone 'https://github.com/kuroda0817/DPR_finetune_knowitvqa.git`
+    `git clone https://github.com/kuroda0817/DPR_finetune_knowitvqa.git`
     
 2. [KnowitVQAデータセット](https://knowit-vqa.github.io/)をダウンロードして`knowit_data/`直下に置く。
 
